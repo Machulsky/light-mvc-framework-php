@@ -1,0 +1,56 @@
+{
+  "siteTitle": "Webdevkin SPA",
+  "mainPage": "main",
+  "pages": {
+    "main": {
+      "title": "Главная",
+      "menu": "/",
+      "inSitemap": true,
+      "updated": "2017-05-10"
+    },
+    "about": {
+      "title": "О проекте",
+      "menu": "about"
+    },
+    "blog": {
+      "title": "Блог Webdevkin-a",
+      "menu": "blog",
+      "inSitemap": true,
+      "updated": "2017-05-15"
+    },
+    "simpple": {
+      "title": "Проект Simpple",
+      "menu": "simpple",
+      "inSitemap": true,
+      "updated": "2017-05-20"
+    },
+    "contacts": {
+      "title": "Контакты",
+      "menu": "contacts"
+    },
+    "shop": {
+      "title": "Интернет-магазины",
+      "menu": "blog",
+      "inSitemap": true,
+      "updated": "2017-05-25"
+    },
+    "frontend": {
+      "title": "Статьи о фронтенде",
+      "menu": "blog",
+      "inSitemap": true,
+      "updated": "2017-05-27"
+    },
+    "mysql": {
+      "title": "База данных Mysql",
+      "menu": "blog",
+      "inSitemap": true,
+      "updated": "2017-05-29"
+    },
+    "widgets": {
+      "title": "Встраиваемые javascipt-виджеты",
+      "menu": "blog",
+      "inSitemap": true,
+      "updated": "2017-05-30"
+    }
+  }
+}
